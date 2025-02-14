@@ -1,0 +1,14 @@
+pandas 
+numpy
+scikit-learn
+matplotlib
+notebook
+python-box==6.0.2    # lib for exception fuctionality
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .       #  Install setup.py to use local packages
