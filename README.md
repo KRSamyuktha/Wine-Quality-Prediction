@@ -116,4 +116,4 @@ python app.py
 
     AWS_ECR_LOGIN_URI = 339712740386.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = mlproject
+    ECR_REPOSITORY_NAME = mlProject
